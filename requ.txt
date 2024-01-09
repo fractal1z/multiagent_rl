@@ -1,0 +1,8 @@
+gymnasium~=0.26.3
+pyproj~=3.5.0
+folium~=0.14.0
+numpy~=1.23.5
+gym~=0.26.2
+pygame~=2.4.0
+matplotlib~=3.7.1
+keyboard~=0.13.5

@@ -1,0 +1,42 @@
+--------------------------------------------------
+Current time: 2024-01-09 18:53:37
+
+count=1
+episode total=0
+timesteps total=2048
+episode_reward_mean=nan
+count train time = 26.07s
+
+count=2
+episode total=0
+timesteps total=4096
+episode_reward_mean=nan
+count train time = 22.22s
+
+count=3
+episode total=0
+timesteps total=6144
+episode_reward_mean=nan
+count train time = 22.66s
+
+count=4
+episode total=0
+timesteps total=8192
+episode_reward_mean=nan
+count train time = 23.31s
+==============================####################==============================
+Current time: 2024-01-09 18:58:27
+
+count=1
+episode total=0
+timesteps total=2048
+episode_reward_mean=nan
+count train time = 22.69s
+current time: 2024-01-09 18:58:50
+
+count=2
+episode total=0
+timesteps total=4096
+episode_reward_mean=nan
+count train time = 21.61s
+current time: 2024-01-09 18:59:11
