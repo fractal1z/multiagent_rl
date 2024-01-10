@@ -6,3 +6,4 @@ gym~=0.26.2
 pygame~=2.4.0
 matplotlib~=3.7.1
 keyboard~=0.13.5
+pydantic<=1.10
